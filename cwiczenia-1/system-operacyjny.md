@@ -7,7 +7,7 @@ Charakterystyka systemu operacyjnego
 | Charakterystyka | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
 | nazwa      | linux | Debian |
-| program (parametry sieci)      | niewiem |  |
+| program (parametry sieci)      | nie wiem |  |
 
 
 Konfiguracja połączenia sieciowego
